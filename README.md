@@ -25,11 +25,11 @@ bash banner-install.sh
 
 When installing, choose your style:
 
-    ParrotSec logo → for Parrot OS users
+ParrotSec logo → for Parrot OS users
 
-    Debian logo → for Debian/Ubuntu users
+Debian logo → for Debian/Ubuntu users
 
-    Default → for Termux or other distros
+Default → for Termux or other distros
 
 Your choice is saved, and neofetch will run automatically at terminal start.
 
@@ -42,11 +42,11 @@ cd Bastion-Banner
 bash uninstall.sh
 ```
 
-    Removes banner config
+Removes banner config
 
-    Cleans .bashrc entry
+Cleans .bashrc entry
 
-    Optionally removes neofetch
+Optionally removes neofetch
 
 ## 📄 License
 
