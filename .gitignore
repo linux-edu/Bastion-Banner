@@ -1,0 +1,9 @@
+# Ignore temp files and segment scripts
+upgradable_packages.txt
+package_segment_*
+install_package_segment_*.sh
+
+# macOS/Linux hidden files
+.DS_Store
+*.swp
+*.swo
