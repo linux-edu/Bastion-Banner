@@ -1,9 +1,8 @@
-![Shell Script](https://img.shields.io/badge/linux-edu-red.svg)
-
 # 🏰 Bastion-Banner
 
 **Bastion-Banner** is your terminal’s **welcome committee** 🎉.  
-Every time you open a terminal, it greets you with a slick ASCII banner and system info — no more boring shells.
+Every time you open a terminal, it greets you with a slick ASCII
+banner and system info — no more boring shells.
 
 ## ✨ Features
 - 🖼️ Custom ASCII banners for your distro
