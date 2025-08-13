@@ -7,7 +7,7 @@ banner and system info — no more boring shells.
 ## ✨ Features
 - 🖼️ Custom ASCII banners for your distro
 
-- 🎯 ParrotSec **and** Debian logos (Termux supported too!)
+- 🎯 Ubuntu **and** Debian logos (Termux supported too!)
 - ⚡ Zero update/upgrade — installs only what’s needed
 - 🧹 Easy uninstall without breaking your `.bashrc`
 - 🔮 Ready for more banner themes in future
