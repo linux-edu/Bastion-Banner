@@ -19,6 +19,34 @@ banner and system info — no more boring shells.
 git clone https://github.com/linux-edu/Bastion-Banner.git
 cd Bastion-Banner
 bash banner-install.sh
+```
+
+🎨 Banner Selection
+
+When installing, choose your style:
+
+    ParrotSec logo → for Parrot OS users
+
+    Debian logo → for Debian/Ubuntu users
+
+    Default → for Termux or other distros
+
+Your choice is saved, and neofetch will run automatically at terminal start.
+
+🗑️ Uninstall
+
+Want to remove it? Easy:
+
+```bash
+cd Bastion-Banner
+bash uninstall.sh
+```
+
+    Removes banner config
+
+    Cleans .bashrc entry
+
+    Optionally removes neofetch
 
 ## 📄 License
 
