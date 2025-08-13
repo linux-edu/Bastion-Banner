@@ -18,7 +18,7 @@ banner and system info — no more boring shells.
 ```bash
 git clone https://github.com/linux-edu/Bastion-Banner.git
 cd Bastion-Banner
-bash banner-install.sh
+bash install.sh
 ```
 
 🎨 Banner Selection
